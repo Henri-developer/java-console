@@ -1,2 +1,2 @@
-# java-console
- Consultas com nutricionistas feito em JAVA pelo console
+# Java-Console
+ Consultas com nutricionistas feito em JAVA via console, utilizando "design patterns"!
