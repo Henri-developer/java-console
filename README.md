@@ -3,5 +3,5 @@
 - [x] Fácil entendimento
 - [x] Código orientado a objetos
 - [x] Código completamemte comentado
-- [x] Pode ser utilizado com material de estudos
+- [x] Pode ser utilizado como material de estudos
 
